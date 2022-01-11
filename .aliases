@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+
+#Doom Emacs
+alias doom="~/.emacs.d/bin/doom"
+
+# Navigation
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+
+# Common Directories
+alias dl="cd ~/Downloads"
+alias dt="cd ~/Desktop"
+alias dc="cd ~/Documents"
+alias home="cd ~"
+
+# Git
+alias g="git"
+alias gs="git status"
+alias gd="git diff"
+alias gb="git branch"
+alias gm="git checkout master"
